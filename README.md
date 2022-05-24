@@ -1,16 +1,6 @@
-# beer_catalogue_flutter
+An application that displays data from [Punk API](https://punkapi.com/), an open-source API that displays detailed information on delicious craft-beer.
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/12077345/170141769-638ac799-e70c-4c58-8503-747fde220edb.gif" width="200">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
