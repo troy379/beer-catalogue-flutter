@@ -1,0 +1,12 @@
+{
+  "tryAgain": "Try again",
+  "unexpectedError": "Something went wrong. Please try again later.",
+  "beersListTitle": "Beers",
+  "abvLabel": "%ABV",
+  "beerDetailsDescription": "Description",
+  "beerDetailsBrewersTips": "Brewers tips",
+  "beerDetailsSuitableSnacks": "Goes best with",
+  "beerDetailsIngredients": "Ingredients",
+  "beerDetailsIngredientsMalt": "Malt",
+  "beerDetailsIngredientsHops": "Hops"
+}

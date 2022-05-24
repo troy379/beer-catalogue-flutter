@@ -1,0 +1,21 @@
+analyzer:
+  exclude:
+    - lib/generated_plugin_registrant.dart
+    - lib/**.g.dart
+    - lib/**.freezed.dart
+
+  errors:
+    # this is needed for a 'freezed' package (https://github.com/rrousselGit/freezed/issues/488)
+    invalid_annotation_target: ignore
+    missing_required_param: error
+    unused_import: error
+    always_use_package_imports: error
+
+linter:
+  rules:
+    - always_put_required_named_parameters_first
+    - avoid_print
+    - always_use_package_imports
+    - prefer_const_constructors
+    - prefer_const_declarations
+
